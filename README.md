@@ -66,6 +66,5 @@ The analysis reveals strong growth in Netflix content over time, with a clear do
 ---
 
 ## 📎 Project File
-- [View Jupyter Notebook](https://github.com/pallavisandilya4-hash/Netflix_EDA/blob/main/NETFLIX%20EDA.ipynb)
-
+- [View Jupyter Notebook](https://github.com/pallavisandilya4-hash/Netflix_EDA/blob/main/netflix-exploratory-project-7eaa1f.ipynb)
 ---
